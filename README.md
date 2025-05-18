@@ -1,2 +1,2 @@
-# alykait.com-files
+# alykait.com
 Files for alykait.com
