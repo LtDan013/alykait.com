@@ -16,7 +16,7 @@
     "remoteMapNumberString": "025",
     "lifetimeMembers": 100,
     "monthlyMembers": 30,
-    "purchasedFlips": 9,
+    "purchasedFlips": 10,
     "messages": {
       "nextStateMessages": [
         "Debug mode: Let’s flip <state> next. Only <members> more member[s] to go!|Z"
