@@ -19,9 +19,7 @@
     "purchasedFlips": 30,
     "messages": {
       "nextStateMessages": [
-        "Debug mode: Let’s flip <state> next. Only <members> more members to go!|Z",
-        "Debug mode: Let’s flip <state> next. Test B!|B",
-        "Debug mode: Let’s flip <state> next. Test A!|A"
+        "Debug mode: Let’s flip <state> next. Only <members> more members to go!|Z"
       ],
       "actionMessages": [
       ],
