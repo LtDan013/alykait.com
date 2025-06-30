@@ -1,7 +1,16 @@
 {
-  "remoteMapNumberString": 013,
-  "lifetimeMembers": 1217,
-  "monthlyMembers": 82,
-  "purchasedFlips": 12,
-  "nextStateMessage": "Let’s flip <state> next. Only <members> more members to go!"
+  "MAIN": {
+    "remoteMapNumberString": "013",
+    "lifetimeMembers": 1217,
+    "monthlyMembers": 82,
+    "purchasedFlips": 12,
+    "nextStateMessage": "Let’s flip <state> next. Only <members> more members to go!"
+  },
+  "DEBUG": {
+    "remoteMapNumberString": "999",
+    "lifetimeMembers": 9999,
+    "monthlyMembers": 99,
+    "purchasedFlips": 99,
+    "nextStateMessage": "Debug mode: testing flip logic with test members"
+  }
 }
