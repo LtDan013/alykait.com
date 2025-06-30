@@ -7,10 +7,10 @@
     "nextStateMessage": "Let’s flip <state> next. Only <members> more members to go!"
   },
   "DEBUG": {
-    "remoteMapNumberString": "999",
-    "lifetimeMembers": 9999,
-    "monthlyMembers": 99,
-    "purchasedFlips": 99,
-    "nextStateMessage": "Debug mode: testing flip logic with test members"
+    "remoteMapNumberString": "025",
+    "lifetimeMembers": 10,
+    "monthlyMembers": 20,
+    "purchasedFlips": 30,
+    "nextStateMessage": "Debug mode: Let’s flip <state> next. Only <members> more members to go!"
   }
 }
