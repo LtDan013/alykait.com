@@ -6,7 +6,7 @@
     "purchasedFlips": 12,
     "messages": {
       "nextStateMessages": [
-        "Let’s flip <state> next. Only <members> more members to go!|D"
+        "Let’s flip <state> next. Only <members> more member[s] to go!|D"
       ],
       "actionMessages": [
       ],
@@ -19,7 +19,7 @@
     "purchasedFlips": 9,
     "messages": {
       "nextStateMessages": [
-        "Debug mode: Let’s flip <state> next. Only <members> more members to go!|Z"
+        "Debug mode: Let’s flip <state> next. Only <members> more member[s] to go!|Z"
       ],
       "actionMessages": [
       ],
