@@ -20,8 +20,8 @@
     "messages": {
       "nextStateMessages": [
         "Debug mode: Let’s flip <state> next. Only <members> more members to go!|D",
-        "Debug mode: Let’s flip <state> next. AB Test B!|B",
-        "Debug mode: Let’s flip <state> next. AB Test A!|A"
+        "Debug mode: Let’s flip <state> next. Test B!|B",
+        "Debug mode: Let’s flip <state> next. Test A!|A"
       ],
       "actionMessages": [
       ],
