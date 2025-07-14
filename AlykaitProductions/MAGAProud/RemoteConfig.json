@@ -39,7 +39,7 @@
       ],
     },
     "IAPs": {
-      "Test_Alligator": {
+      "Test_Alligato": {
         "iapType": "badge",
         "imageName": "snowflake.circle",
         "imageType": "sfSymbol",
