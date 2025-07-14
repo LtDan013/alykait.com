@@ -12,7 +12,7 @@
       ],
     },
     "IAPs": {
-      "Test_Alligato": {
+      "Test_Alligator": {
         "iapType": "badge",
         "imageName": "🐊",
         "imageType": "emoji",
