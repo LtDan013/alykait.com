@@ -12,15 +12,13 @@
       ],
     },
     "IAPs": {
-      "Test_Alligator": {
+      "Badge_Test_Alligator": {
         "iapType": "badge",
         "imageName": "🐊",
         "imageType": "emoji",
         "overlayText": "Alcatraz",
         "badgeNumber": 250,
         "message": "Get the Alligator badge!",
-        "activeDate": "2025-07-01",
-        "expirationDate": "2025-07-09"
       }
     }
   },
@@ -39,7 +37,7 @@
       ],
     },
     "IAPs": {
-      "Test_Alligator": {
+      "Badge_Test_Alligator": {
         "iapType": "badge",
         "imageName": "snowflake.circle",
         "imageType": "sfSymbol",
