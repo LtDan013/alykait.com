@@ -9,7 +9,7 @@
         "Let’s flip <state> next. Only <members> more member[s] to go!|Z"
       ],
       "actionMessages": [
-      ],
+      ]
     },
     "IAPs": {
       "Badge_Test_Alligator": {
@@ -55,7 +55,7 @@
         "B msg: Let’s flip <state> next. Only <members> more member[s] to go!|B"
       ],
       "actionMessages": [
-      ],
+      ]
     },
     "IAPs": {
       "Badge_Test_Alligator": {
