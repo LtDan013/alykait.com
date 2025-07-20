@@ -20,7 +20,26 @@
         "badgeNumber": 250,
         "message": "Get the Alligator badge!",
       },
-c
+      "Sub_A_Founders": {
+        "iapType": "subscription",
+        "headline": "Let them see our numbers",
+        "subheadline": "Become a member to flip key states, show America we’re still here, and lead others to do the same. Every member moves the needle.",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2025-08-31"
+      },
+      "Sub_B_Founders": {
+        "iapType": "subscription",
+        "headline": "Lead the Flip. Inspire the Movement.",
+        "subheadline": "Every member brings us closer to turning states red. Join to show strength in numbers and help lead the charge.",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2025-08-31"
+      },
+      "Sub_C_Founders": {
+        "iapType": "subscription",
+        "headline": "Your membership flips the map",
+        "subheadline": "Every member brings us closer to turning states red. Join to show strength in numbers and help lead the charge.",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2025-08-31"
     }
   },
   "DEBUG": {
