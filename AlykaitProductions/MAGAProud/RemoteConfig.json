@@ -19,6 +19,13 @@
         "overlayText": "Alcatraz",
         "badgeNumber": 250,
         "message": "Get the Alligator badge!",
+      },
+      "Sub_A_Founders": {
+        "iapType": "subscription",
+        "headline": "Let them see our numbers",
+        "subheadline": "Become a member to flip key states, show America we’re still here, and lead others to do the same. Every member moves the needle.",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2025-08-31"
       }
     }
   },
