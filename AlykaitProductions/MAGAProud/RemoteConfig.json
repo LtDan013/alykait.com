@@ -22,24 +22,24 @@
       },
       "Sub_A_Founders": {
         "iapType": "subscription",
-        "headline": "Let them see our numbers",
-        "subheadline": "Become a member to flip key states, show America we’re still here, and lead others to do the same. Every member moves the needle.",
+        "headline": "Your membership flips the map",
+        "subheadline": "The map flips based on the number of members we have. Show America how strong our support is and get access to exclusive maps and badges.",
         "activeDate": "2025-07-01",
-        "expirationDate": "2025-08-31"
+        "expirationDate": "2027-08-31"
       },
       "Sub_B_Founders": {
         "iapType": "subscription",
         "headline": "Lead the Flip. Inspire the Movement.",
-        "subheadline": "Every member brings us closer to turning states red. Join to show strength in numbers and help lead the charge.",
+        "subheadline": "Every member brings us closer to turning states red. Join to show strength in numbers and help lead the change.",
         "activeDate": "2025-07-01",
-        "expirationDate": "2025-08-31"
+        "expirationDate": "2027-08-31"
       },
       "Sub_C_Founders": {
         "iapType": "subscription",
-        "headline": "Your membership flips the map",
-        "subheadline": "Every member brings us closer to turning states red. Join to show strength in numbers and help lead the charge.",
+        "headline": "Show America we are strong",
+        "subheadline": "Exclusive maps, exclusive badges, patriotic members. Join to help flip the map.",
         "activeDate": "2025-07-01",
-        "expirationDate": "2025-08-31"
+        "expirationDate": "2027-08-31"
       }
     }
   },
