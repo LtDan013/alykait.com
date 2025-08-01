@@ -14,6 +14,8 @@
     "IAPs": {
       "Badge_Test_Alligator": {
         "iapType": "badge",
+        "headline": "Get the Alligator Alcatraz badge",
+        "subheadline: "",
         "imageName": "🐊",
         "imageType": "emoji",
         "overlayText": "Alcatraz",
