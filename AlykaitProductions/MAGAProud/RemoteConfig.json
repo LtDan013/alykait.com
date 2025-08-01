@@ -12,6 +12,12 @@
       ]
     },
     "IAPs": {
+      "Map_Flag": {
+        "iapType": "map",
+        "headline": "Get the Flag Map!",
+        "subheadline": "The symbol of true patriots.",
+        "imageName": "F999"
+      },
       "Badge_Test_Alligator": {
         "iapType": "badge",
         "headline": "Get the Alligator Alcatraz Badge!",
