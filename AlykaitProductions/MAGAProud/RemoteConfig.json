@@ -9,6 +9,9 @@
         "Let’s flip <state> next. Only <members> more member[s] to go!|Z"
       ],
       "actionMessages": [
+      ],
+      "subscribeMessages": [
+        "Claim the *Founders* badge, free for early members only!|Z"
       ]
     },
     "IAPs": {
