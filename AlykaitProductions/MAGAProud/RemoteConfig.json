@@ -74,6 +74,8 @@
       "Badge_Test_Alligator": {
         "iapType": "badge",
         "imageName": "snowflake.circle",
+        "headline": "Get the Alligator Alcatraz Badge!",
+        "subheadline": "Show your support. Available for a limited time.",
         "imageType": "sfSymbol",
         "overlayText": "Alcatraz",
         "badgeNumber": 250,
