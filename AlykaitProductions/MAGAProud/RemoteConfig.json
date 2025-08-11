@@ -20,6 +20,7 @@
         "headline": "The symbol of true patriots!",
         "subheadline": "Get the Flag Map, uncover it one state at a time.",
         "imageName": "Map_Flag",
+        "selectorName": "Flag",
         "points": 50
       },
       "Badge_Test_Alligator": {
