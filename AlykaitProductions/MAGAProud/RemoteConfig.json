@@ -1,9 +1,9 @@
 {
   "MAIN": {
     "remoteMapNumberString": "013",
-    "lifetimeMembers": 1217,
-    "monthlyMembers": 82,
-    "purchasedFlips": 12,
+    "lifetimeMembers": 0,
+    "monthlyMembers": 0,
+    "purchasedFlips": 0,
     "messages": {
       "nextStateMessages": [
         "Let’s flip <state> next. Only <members> more member[s] to go!|Z"
