@@ -72,6 +72,9 @@
         "B msg: Let’s flip <state> next. Only <members> more member[s] to go!|B"
       ],
       "actionMessages": [
+      ],
+      "subscribeMessages": [
+        "Claim the *Founders* badge, free for early members only! Limited offer: Also get the CK in memorium badge."
       ]
     },
     "IAPs": {
