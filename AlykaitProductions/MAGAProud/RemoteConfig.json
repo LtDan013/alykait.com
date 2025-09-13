@@ -23,15 +23,15 @@
         "selectorName": "Flag",
         "points": 50
       },
-      "Badge_Test_Alligator": {
+      "Badge_CK": {
         "iapType": "badge",
-        "headline": "Get the Alligator Alcatraz Badge!",
-        "subheadline": "Show your support. Available for a limited time.",
-        "imageName": "🐊",
+        "headline": "Always remember",
+        "subheadline": "Available for a limited time.",
+        "imageName": "🕯️",
         "imageType": "emoji",
-        "overlayText": "Alcatraz",
-        "badgeNumber": 250,
-        "message": "Get the Alligator badge!",
+        "overlayText": "CK",
+        "badgeNumber": 199,
+        "message": "In our hearts",
         "points": 15
       },
       "Sub_A_Founders": {
