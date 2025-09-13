@@ -26,13 +26,15 @@
       "Badge_CK": {
         "iapType": "badge",
         "headline": "Always remember",
-        "subheadline": "Available for a limited time.",
+        "subheadline": "Free this month to new susbcribers",
         "imageName": "🎗️",
         "imageType": "emoji",
         "overlayText": "CK",
         "badgeNumber": 199,
         "message": "In our hearts",
-        "points": 15
+        "points": 15,
+        "activeDate": "2025-09-11",
+        "expirationDate": "2025-10-01"
       },
       "Sub_A_Founders": {
         "iapType": "subscription",
