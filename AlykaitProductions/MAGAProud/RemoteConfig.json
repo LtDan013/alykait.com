@@ -12,7 +12,7 @@
       ],
       "subscribeMessages": [
         "Claim the *Founders* badge, free for early members only!|Z",
-        comment: "Claim the *Founders* badge, free for early members only! Limited offer: Also get the CK in memorium badge."
+        "comment": "Claim the *Founders* badge, free for early members only! Limited offer: Also get the CK in memorium badge."
       ]
     },
     "IAPs": {
