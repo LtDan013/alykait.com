@@ -36,19 +36,6 @@
         "activeDate": "2025-09-11",
         "expirationDate": "2025-10-01"
       },
-      "Badge_Free.1": {
-        "iapType": "badge",
-        "headline": "Always remember",
-        "subheadline": "Available for a limited time.",
-        "imageName": "🎗️",
-        "imageType": "emoji",
-        "overlayText": "Free",
-        "badgeNumber": 150,
-        "message": "In our hearts",
-        "points": 15,
-        "activeDate": "2025-09-11",
-        "expirationDate": "2025-10-01"
-      },
       "Sub_A_Founders": {
         "iapType": "subscription",
         "headline": "Your membership flips the map",
