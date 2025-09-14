@@ -77,13 +77,17 @@
       ]
     },
     "IAPs": {
-      "Map_Flag": {
-        "iapType": "map",
-        "headline": "The symbol of true patriots!",
-        "subheadline": "Get the Flag Map, uncover it one state at a time.",
-        "imageName": "Map_Flag",
-        "selectorName": "Flag",
-        "points": 50
+      "Badge_Test_Alligator": {
+        "iapType": "badge",
+        "imageName": "snowflake.circle",
+        "headline": "Get the Alligator Alcatraz Badge!",
+        "subheadline": "Show your support. Available for a limited time.",
+        "imageType": "sfSymbol",
+        "overlayText": "Alcatraz",
+        "badgeNumber": 250,
+        "message": "Get the Alligator badge!",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2025-12-31"
       },
       "Badge_CK": {
         "iapType": "badge",
