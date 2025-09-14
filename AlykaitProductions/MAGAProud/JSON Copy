@@ -1,0 +1,115 @@
+{
+  "MAIN": {
+    "remoteMapNumberString": "001",
+    "lifetimeMembers": 0,
+    "monthlyMembers": 0,
+    "purchasedFlips": 0,
+    "messages": {
+      "nextStateMessages": [
+        "Let’s flip <state> next. Only <members> more member[s] to go!|Z"
+      ],
+      "actionMessages": [
+      ],
+      "subscribeMessages": [
+        "Claim the *Founders* badge, free for early members only!|Z"
+      ]
+    },
+    "IAPs": {
+      "Map_Flag": {
+        "iapType": "map",
+        "headline": "The symbol of true patriots!",
+        "subheadline": "Get the Flag Map, uncover it one state at a time.",
+        "imageName": "Map_Flag",
+        "selectorName": "Flag",
+        "points": 50
+      },
+      "Badge_CK": {
+        "iapType": "badge",
+        "headline": "Always remember",
+        "subheadline": "Available for a limited time.",
+        "imageName": "🎗️",
+        "imageType": "emoji",
+        "overlayText": "CK",
+        "badgeNumber": 150,
+        "message": "In our hearts",
+        "points": 15,
+        "activeDate": "2025-09-11",
+        "expirationDate": "2025-10-01"
+      },
+      "Sub_A_Founders": {
+        "iapType": "subscription",
+        "headline": "Your membership flips the map",
+        "subheadline": "The map flips based on the number of members we have. Show America how strong our support is and get access to exclusive maps and badges.",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2027-08-31"
+      },
+      "Sub_B_Founders": {
+        "iapType": "subscription",
+        "headline": "Lead the Flip. Inspire the Movement",
+        "subheadline": "Every member brings us closer to turning states red. Join to show strength in numbers and help lead the change.",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2027-08-31"
+      },
+      "Sub_C_Founders": {
+        "iapType": "subscription",
+        "headline": "Show America we are strong",
+        "subheadline": "Exclusive maps, exclusive badges, patriotic members. Join to help flip the map.",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2027-08-31"
+      }
+    }
+  },
+  "DEBUG": {
+    "remoteMapNumberString": "025",
+    "lifetimeMembers": 100,
+    "monthlyMembers": 30,
+    "purchasedFlips": 10,
+    "messages": {
+      "nextStateMessages": [
+        "Debug mode: Let’s flip <state> next. Only <members> more member[s] to go!|Z",
+        "A msg: Let’s flip <state> next. Only <members> more member[s] to go!|A",
+        "B msg: Let’s flip <state> next. Only <members> more member[s] to go!|B"
+      ],
+      "actionMessages": [
+      ],
+      "subscribeMessages": [
+        "Claim the *Founders* badge, free for early members! Limited time: Also get the CK in memorium badge."
+      ]
+    },
+    "IAPs": {
+      "Badge_Test_Alligator": {
+        "iapType": "badge",
+        "imageName": "snowflake.circle",
+        "headline": "Get the Alligator Alcatraz Badge!",
+        "subheadline": "Show your support. Available for a limited time.",
+        "imageType": "sfSymbol",
+        "overlayText": "Alcatraz",
+        "badgeNumber": 250,
+        "message": "Get the Alligator badge!",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2025-12-31"
+      },
+      "Sub_A": {
+        "iapType": "subscription",
+        "headline": "DB Let them see our numbers",
+        "subheadline": "Become a member to flip key states, show America we’re still here, and lead others to do the same. Every member moves the needle.",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2025-08-31"
+      },
+      "Sub_B": {
+        "iapType": "subscription",
+        "headline": "DB Lead the Flip. Inspire the Movement.",
+        "subheadline": "Every member brings us closer to turning states red. Join to show strength in numbers and help lead the charge.",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2025-08-31"
+      },
+      "Sub_C": {
+        "iapType": "subscription",
+        "headline": "DB Your membership flips the map",
+        "subheadline": "Every member brings us closer to turning states red. Join to show strength in numbers and help lead the charge.",
+        "activeDate": "2025-07-01",
+        "expirationDate": "2025-08-31"
+      }
+    }
+  }
+}
