@@ -60,18 +60,20 @@
     }
   },
   "DEBUG": {
-    "remoteMapNumberString": "001",
-    "lifetimeMembers": 0,
-    "monthlyMembers": 0,
-    "purchasedFlips": 0,
+    "remoteMapNumberString": "025",
+    "lifetimeMembers": 100,
+    "monthlyMembers": 30,
+    "purchasedFlips": 10,
     "messages": {
       "nextStateMessages": [
-        "Let’s flip <state> next. Only <members> more member[s] to go!|Z"
+        "Debug mode: Let’s flip <state> next. Only <members> more member[s] to go!|Z",
+        "A msg: Let’s flip <state> next. Only <members> more member[s] to go!|A",
+        "B msg: Let’s flip <state> next. Only <members> more member[s] to go!|B"
       ],
       "actionMessages": [
       ],
       "subscribeMessages": [
-        "Claim the *Founders* badge, free for early members only!|Z"
+        "Claim the *Founders* badge, free for early members! Limited time: Also get the CK in memorium badge."
       ]
     },
     "IAPs": {
