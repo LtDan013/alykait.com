@@ -61,9 +61,9 @@
   },
   "DEBUG": {
     "remoteMapNumberString": "025",
-    "lifetimeMembers": 100,
-    "monthlyMembers": 30,
-    "purchasedFlips": 10,
+    "lifetimeMembers": 0,
+    "monthlyMembers": 0,
+    "purchasedFlips": 21,
     "messages": {
       "nextStateMessages": [
         "Debug mode: Let’s flip <state> next. Only <members> more member[s] to go!|Z",
