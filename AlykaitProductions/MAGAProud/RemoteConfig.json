@@ -36,7 +36,19 @@
         "activeDate": "2025-09-11",
         "expirationDate": "2025-10-01"
       },
-      🚫
+      "Badge_Free.1": {
+        "iapType": "badge",
+        "headline": "Cancelled!",
+        "subheadline": "Available for a limited time.",
+        "imageName": "🚫",
+        "imageType": "emoji",
+        "overlayText": "Jimmy K",
+        "badgeNumber": 802,
+        "message": "Free for new members",
+        "points": 15,
+        "activeDate": "2025-09-11",
+        "expirationDate": "2025-10-01"
+      },
       "Sub_A_Founders": {
         "iapType": "subscription",
         "headline": "Your membership flips the map",
