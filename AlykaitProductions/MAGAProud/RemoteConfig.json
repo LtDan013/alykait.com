@@ -86,8 +86,8 @@
       "actionMessages": [
       ],
       "subscribeMessages": [
-        "Claim the *Founders* badge, free for early members! Limited time: Get the **CK: In Memorium** badge with your subscription.|A",
-        "Claim the *Founders* badge, free for early members! Limited time: Get the **Kimmel Cancelled** badge with your subscription.|B",
+        "Claim the *Founders* badge, free for early members!\nLimited time: Get the **CK: In Memorium** badge with your subscription.|A",
+        "Claim the *Founders* badge, free for early members!\nLimited time: Get the **Kimmel Cancelled** badge with your subscription.|B",
         "Claim the *Founders* badge, free for early members!|C"
       ]
     },
