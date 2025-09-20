@@ -11,7 +11,9 @@
       "actionMessages": [
       ],
       "subscribeMessages": [
-        "Claim the ***Founders*** badge, free for early members! Limited time: Get the ***CK: In Memorium*** badge with your subscription.|Z"
+        "Claim the ***Founders*** badge, free for early members!\nLimited time: Get the ***CK: In Memorium*** badge with your subscription.|A",
+        "Claim the ***Founders*** badge, free for early members!\nLimited time: Get the ***JK Cancelled*** badge with your subscription.|B",
+        "Claim the ***Founders*** badge, free for early members!|C"
       ]
     },
     "IAPs": {
@@ -32,6 +34,19 @@
         "overlayText": "CK",
         "badgeNumber": 901,
         "message": "In our hearts",
+        "points": 15,
+        "activeDate": "2025-09-11",
+        "expirationDate": "2025-10-01"
+      },
+      "Badge_Free_1": {
+        "iapType": "badge",
+        "headline": "JK Cancelled!",
+        "subheadline": "Available for a limited time.",
+        "imageName": "🚫",
+        "imageType": "emoji",
+        "overlayText": "JK",
+        "badgeNumber": 802,
+        "message": "Free for new members",
         "points": 15,
         "activeDate": "2025-09-11",
         "expirationDate": "2025-10-01"
@@ -74,7 +89,7 @@
       ],
       "subscribeMessages": [
         "Claim the ***Founders*** badge, free for early members!\nLimited time: Get the ***CK: In Memorium*** badge with your subscription.|A",
-        "Claim the ***Founders*** badge, free for early members!\nLimited time: Get the ***Kimmel Cancelled*** badge with your subscription.|B",
+        "Claim the ***Founders*** badge, free for early members!\nLimited time: Get the ***JK Cancelled*** badge with your subscription.|B",
         "Claim the ***Founders*** badge, free for early members!|C"
       ]
     },
